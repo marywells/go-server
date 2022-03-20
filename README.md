@@ -4,6 +4,6 @@ Simple REST API written in Golang which gets a list of rollercoasters, gets a sp
 
 ### Instructions
     1. go run server.go
-    3. start calling the endpoint, e.g. curl localhost:4000/getRandomCoaster
+    3. start calling the endpoint, e.g. curl localhost:4000/coasters/random -L
     
 With thanks to @kubucation 💪
